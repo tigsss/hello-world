@@ -7,3 +7,4 @@ I currently use Java and will try to learn Python and C++ in the future.
 
 Project List:
 Word Counter: Counts number of words, sentences, distinct words, and can also output a list of the most commonly used words in a text file
+Maze: Randomly generates a maze and allows user to try and solve it
